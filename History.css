@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+    margin: auto;
+}
+.Bbody{
+    width: 1438px;
+    margin: auto;
+    border: solid 1px;
+}
+.spravka{
+    width: 310px;
+    height: 1496px;
+    border: 4px dotted blue;
+    float: left;
+    padding-left: 12px;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.Sbody{
+    width: 770px;
+    height: 1496px;
+    border: 4px dotted blue;
+    float: left;
+}
+nav{
+    width: 310px;
+    border: 4px dotted blue;
+    float: left;
+    padding-left: 12px;
+    font-size: 28px;
+    font-family: 0'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: brown;
+}
+.image{
+    width: 770px;
+    height: 530px;
+    text-align: center;
+    float: left;
+}
